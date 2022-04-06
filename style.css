@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+        
+body {
+    background-color: rgb(253, 251, 251);
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+h1{
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+p {
+    background-color: #08BDBD;
+}
+
+a {
+    color: #184E77;
+}
+
+.list-style{
+    line-height: 15px;
+}
+
+#cabeçalho{
+    top: 0px;
+}
+
+.barra-superior {
+    background-color: #2fc18c;
+    color: rgb(253, 251, 251);
+    text-align: center;
+    padding: 13px 15px;
+    font-size: 16px;
+    overflow: hidden;
+}
+
+.topnav a {
+    color:
+}
+
+.barra-superior a:hover {
+font-size: 17px;
+color: white;
+}
+
+#cabecalho {
+    background-color: #2fc18c;
+    overflow: hidden;
+}
+
+#cabecalho a {
+    color: rgb(253, 251, 251);
+    text-align: center;
+    text-decoration: none;
+    padding: 13px 15px;
+    font-size: 16px;
+}
+
+#licoes_aprendidas {
+
+}
+
+#licoes_a_aprender {
+
+}
+
+#rodape {
+    
+}
