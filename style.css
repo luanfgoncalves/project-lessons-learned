@@ -15,12 +15,16 @@ h2 {
     font-size: 2em;
 }
 
-a {
-    color: #184E77;
-}
-
 .list-style{
     line-height: 15px;
+}
+
+#titulo{
+
+}
+
+#minha_foto{
+
 }
 
 #cabecalho{
@@ -42,17 +46,40 @@ a {
 }
 
 #sobre_mim{
-
+    background-color: rgb(235, 230, 230);
+    margin:auto;
+    padding: auto;
+    border-style:ridge;
+    border-color: rgb(235, 230, 230);
 }
 
-#licoes_aprendidas{
-
+#listas{
+    background-color: rgb(235, 230, 230);
+    margin:auto;
+    padding: auto;
+    border-style:ridge;
+    border-color: rgb(235, 230, 230) ;
 }
 
-#licoes_a_aprender{
+#licoes_aprendidas{}
 
+#licoes_a_aprender{}
+
+#meu_aprendizado{
+    background-color: rgb(235, 230, 230);
+    margin:2px;
+    padding: auto;
+    border-style:ridge;
+    border-color: rgb(235, 230, 230) ;
+}
+#destaque{
+    background-color: rgb(235, 230, 230);
+    margin:2px;
+    padding: auto;
+    border-style:ridge;
+    border-color: rgb(235, 230, 230) ;
 }
 
 #rodape{
-    font-size: 5px;
+    font-size: 10px;
 }
