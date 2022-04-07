@@ -30,11 +30,11 @@ h2 {
 #cabecalho {
   background-color: hsl(158, 69%, 42%);
   overflow: hidden;
+  position:relative;
+  top: 0px
 }
 
 #cabecalho a {
-  position:relative;
-  top: 0px;
   color: rgb(253, 251, 251);
   text-align: center;
   text-decoration: none;
