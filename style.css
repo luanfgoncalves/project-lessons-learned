@@ -1,85 +1,83 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
-        
+
 body {
-    background-color: rgb(253, 251, 251);
-    margin: 2px;
-    font-family: 'Roboto', sans-serif;
-    font-size: 15px;
+  background-color: rgb(253, 251, 251);
+  margin: 2px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
 }
 
-h1{
-    font-size: 3em;
+h1 {
+  font-size: 3em;
 }
 
 h2 {
-    font-size: 2em;
+  font-size: 2em;
 }
 
-.list-style{
-    line-height: 15px;
+.list-style {
+  line-height: 15px;
 }
 
-#titulo{
+#titulo {}
 
+#minha_foto {}
+
+#cabecalho {
+  background-color: hsl(158, 69%, 42%);
+  overflow: hidden;
 }
 
-#minha_foto{
-
+#cabecalho a {
+  top: 0px;
+  color: rgb(253, 251, 251);
+  text-align: center;
+  text-decoration: none;
+  padding: 13px 15px;
+  font-size: 16px;
 }
 
-#cabecalho{
-    background-color: hsl(158, 69%, 42%);
-    overflow: hidden;
+#cabecalho a:hover {
+  font-size: 17px;
+  color: white;
 }
 
-#cabecalho a{
-    top: 0px;
-    color: rgb(253, 251, 251);
-    text-align: center;
-    text-decoration: none;
-    padding: 13px 15px;
-    font-size: 16px;
-}
-#cabecalho a:hover{
-    font-size: 17px;
-    color: white;
+#sobre_mim {
+  background-color: rgb(235, 230, 230);
+  margin: auto;
+  padding: auto;
+  border-style: ridge;
+  border-color: rgb(235, 230, 230);
 }
 
-#sobre_mim{
-    background-color: rgb(235, 230, 230);
-    margin:auto;
-    padding: auto;
-    border-style:ridge;
-    border-color: rgb(235, 230, 230);
+#listas {
+  background-color: rgb(235, 230, 230);
+  margin: auto;
+  padding: auto;
+  border-style: ridge;
+  border-color: rgb(235, 230, 230);
 }
 
-#listas{
-    background-color: rgb(235, 230, 230);
-    margin:auto;
-    padding: auto;
-    border-style:ridge;
-    border-color: rgb(235, 230, 230) ;
+#licoes_aprendidas {}
+
+#licoes_a_aprender {}
+
+#meu_aprendizado {
+  background-color: rgb(235, 230, 230);
+  margin: 2px;
+  padding: auto;
+  border-style: ridge;
+  border-color: rgb(235, 230, 230);
 }
 
-#licoes_aprendidas{}
-
-#licoes_a_aprender{}
-
-#meu_aprendizado{
-    background-color: rgb(235, 230, 230);
-    margin:2px;
-    padding: auto;
-    border-style:ridge;
-    border-color: rgb(235, 230, 230) ;
-}
-#destaque{
-    background-color: rgb(235, 230, 230);
-    margin:2px;
-    padding: auto;
-    border-style:ridge;
-    border-color: rgb(235, 230, 230) ;
+#destaque {
+  background-color: rgb(235, 230, 230);
+  margin: 2px;
+  padding: auto;
+  border-style: ridge;
+  border-color: rgb(235, 230, 230);
 }
 
-#rodape{
-    font-size: 10px;
+#rodape {
+  font-size: 10px;
 }
