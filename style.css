@@ -29,8 +29,8 @@ h2 {
 
 #cabecalho {
   background-color: hsl(158, 69%, 42%);
-  overflow:hidden;
-  position:relative;
+  overflow: hidden;
+  position: relative;
   top: 0;
 }
 
