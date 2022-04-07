@@ -3,7 +3,7 @@
 body {
   background-color: rgb(253, 251, 251);
   margin: 2px;
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 15px;
 }
 
@@ -20,18 +20,18 @@ h2 {
 }
 
 #titulo {
-
+  padding: auto;
 }
 
 #minha_foto {
-
+  padding: auto;
 }
 
 #cabecalho {
   background-color: hsl(158, 69%, 42%);
-  overflow: hidden;
+  overflow:hidden;
   position:relative;
-  top: 0px
+  top: 0;
 }
 
 #cabecalho a {
@@ -63,9 +63,13 @@ h2 {
   border-color: rgb(235, 230, 230);
 }
 
-#licoes_aprendidas {}
+#licoes_aprendidas {
+  padding: auto;
+}
 
-#licoes_a_aprender {}
+#licoes_a_aprender {
+  padding: auto;
+}
 
 #meu_aprendizado {
   background-color: rgb(235, 230, 230);
