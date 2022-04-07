@@ -3,7 +3,7 @@
 body {
   background-color: rgb(253, 251, 251);
   margin: 2px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 15px;
 }
 
@@ -19,9 +19,13 @@ h2 {
   line-height: 15px;
 }
 
-#titulo {}
+#titulo {
 
-#minha_foto {}
+}
+
+#minha_foto {
+
+}
 
 #cabecalho {
   background-color: hsl(158, 69%, 42%);
