@@ -33,6 +33,7 @@ h2 {
 }
 
 #cabecalho a {
+  position:relative;
   top: 0px;
   color: rgb(253, 251, 251);
   text-align: center;
