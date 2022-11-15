@@ -10,7 +10,9 @@ Este é meu primeiro projeto desenvolvido em minha jornada de aprendizado como d
 
 ## <h2 align="center"> Preview </h2>
 
-<img align="center" src="./imgs/preview.png" width="640" height="360" alt="Preview"/>
+<div align="center">
+  <img src="./imgs/preview.png" width="768" height="432" alt="Preview"/>
+</div>
 
 ## <h2 align="center"> Connect with me: </h2>
 
