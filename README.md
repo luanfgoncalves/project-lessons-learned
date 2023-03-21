@@ -1,6 +1,12 @@
+<!-- Introdução -->
 ## <h1 align="center"> Projeto Lessons Learned  - :one: </h1>
 
-Este é meu primeiro projeto desenvolvido em minha jornada de aprendizado como desenvolvedor na Trybe.
+<p align="center">
+Este é meu primeiro projeto desenvolvido em minha jornada de aprendizado como desenvolvedor na Trybe,
+nele desenvolvi uma página simples para demonstar conhecimentos básicos.
+</p>
+
+#
 
 ## <h2 align="center"> Habilidades Desenvolvidas: </h2>
 
@@ -8,12 +14,63 @@ Este é meu primeiro projeto desenvolvido em minha jornada de aprendizado como d
 * Utilizei _HTML_ semântico para tornar minha página mais acessível e melhor ranqueada. :heavy_check_mark:
 * Utilizei _CSS_ para adicionar estilo e posicionar elementos. :heavy_check_mark:
 
+#
+
 ## <h2 align="center"> Preview </h2>
 
 <div align="center">
-  <img src="./imgs/preview.png" width="768" height="432" alt="Preview"/>
+  <img src="./imgs/preview.png" width="768px" height="432px" alt="Preview"/>
 </div>
 
+#
+
+<!-- Ferramentas utilizadas -->
+<details align="center">
+  <summary>
+	  <h2>Ferramentas e Tecnologias utilizadas:</h2>
+	</summary>
+
+  <div align="center">
+
+  | Linguagens              | Tecnologias             |
+  | :---------------------- | :---------------------- |
+  | JavaScript              | HTML                    |
+  | .                       | CSS                     |
+  | .                       | Git                     |
+
+  </div>
+
+</details>
+
+#
+
+<!-- Instalação e utilização -->
+<details align="center">
+  <summary>
+    <h2>Como instalar e utilizar o projeto:</h2>
+  </summary>
+
+<details align="center">
+  <summary>
+    <h3>Especificações Tecnicas:</h3>
+  </summary>
+
+  * Git - <i style="color:grey"> `git -v` informará a versão em uso.</i>
+
+  #
+
+  </details>
+
+  1. Faça a clonagem do projeto - <i style="color:grey">O projeto não utiliza nenhuma dependência externa.</i>
+  > `git clone git@github.com:luanfgoncalves/project-lessons-learned.git`
+  1. Abra o arquivo Index.html - <i style="color:grey">Localizado na raíz do projeto.</i>
+
+
+</details>
+
+#
+
+<!-- Instalação e utilização -->
 ## <h2 align="center"> Connect with me: </h2>
 
 <div align="center">
