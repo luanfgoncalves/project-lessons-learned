@@ -8,7 +8,7 @@ nele desenvolvi uma página simples para demonstar conhecimentos básicos.
 
 #
 
-## <h2 align="center"> Habilidades Desenvolvidas: </h2>
+<h2 align="center"> Habilidades Desenvolvidas: </h2>
 
 * Utilizei _HTML_ para construir páginas WEB. :heavy_check_mark:
 * Utilizei _HTML_ semântico para tornar minha página mais acessível e melhor ranqueada. :heavy_check_mark:
@@ -16,7 +16,7 @@ nele desenvolvi uma página simples para demonstar conhecimentos básicos.
 
 #
 
-## <h2 align="center"> Preview </h2>
+<h2 align="center"> Preview </h2>
 
 <div align="center">
   <img src="./imgs/preview.png" width="768px" height="432px" alt="Preview"/>
@@ -55,23 +55,30 @@ nele desenvolvi uma página simples para demonstar conhecimentos básicos.
     <h3>Especificações Tecnicas:</h3>
   </summary>
 
+<div align="left">
+
   * Git - <i style="color:grey"> `git -v` informará a versão em uso.</i>
+
+</div>
 
   #
 
   </details>
 
+<div align="left">
+
   1. Faça a clonagem do projeto - <i style="color:grey">O projeto não utiliza nenhuma dependência externa.</i>
   > `git clone git@github.com:luanfgoncalves/project-lessons-learned.git`
-  1. Abra o arquivo Index.html - <i style="color:grey">Localizado na raíz do projeto.</i>
+  2. Abra o arquivo Index.html - <i style="color:grey">Localizado na raíz do projeto.</i>
 
+</div>
 
 </details>
 
 #
 
 <!-- Instalação e utilização -->
-## <h2 align="center"> Connect with me: </h2>
+<h2 align="center"> Connect with me: </h2>
 
 <div align="center">
   <a href="https://instagram.com/luanfgoncalves" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="50px" height="50px" target="_blank"></a>
