@@ -57,7 +57,7 @@ nele desenvolvi uma página simples para demonstar conhecimentos básicos.
 
 <div align="left">
 
-  * Git - <i style="color:grey"> `git -v` informará a versão em uso.</i>
+  * Git - <i> `git -v` informará a versão em uso.</i>
 
 </div>
 
@@ -67,9 +67,9 @@ nele desenvolvi uma página simples para demonstar conhecimentos básicos.
 
 <div align="left">
 
-  1. Faça a clonagem do projeto - <i style="color:grey">O projeto não utiliza nenhuma dependência externa.</i>
-  > `git clone git@github.com:luanfgoncalves/project-lessons-learned.git`
-  2. Abra o arquivo Index.html - <i style="color:grey">Localizado na raíz do projeto.</i>
+  1. Faça a clonagem do projeto - <i>O projeto não utiliza nenhuma dependência externa.</i>
+  `git clone git@github.com:luanfgoncalves/project-lessons-learned.git`
+  1. Abra o arquivo Index.html - <i>Localizado na raíz do projeto.</i>
 
 </div>
 
